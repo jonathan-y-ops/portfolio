@@ -12,4 +12,4 @@ In addition to coursework and lab projects, I have built practical experience by
 Cybersecurity is the starting point of my long-term goal to work in cloud engineering and cloud security. The networking, system administration, and defensive skills I am building now give me the baseline needed to design and protect applications in cloud platforms like Azure and other major providers. As I gain experience in entry-level security roles, I plan to transition into roles focused on cloud infrastructure and cloud security, where I can apply both my security mindset and my interest in scalable, modern technology environments.
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9bdb1f68-b077-4efb-a5d6-9ee29aa41ad8" />
 
-[View my resume](./file/resume.pdf)
+[View my resume](file/Resume.pdf)
