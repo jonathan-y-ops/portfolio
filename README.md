@@ -4,6 +4,10 @@ Transitioning from early challenges in unrelated fields to cybersecurity, I disc
 
 Deepening my expertise, I excelled in core security courses like ITSY 1342: Information Technology Security, ITSY 2330: Intrusion Detection, ITSY 2401: Firewalls & Network Security, and ITSY 2443: Ethical Hacking Computer System Forensics, earning Dean's List recognition and consistent A's/B's. Hands-on labs in firewall deployment, intrusion monitoring, vulnerability scanning, and digital forensics honed my ability to detect threats, mitigate risks, and conduct incident response, preparing me for SOC analyst or junior security analyst roles. Complementing academics, I've built and troubleshot custom PCs/servers, installed/configured OS environments, and practiced Azure cloud labs, positioning me as a versatile "jack-of-all-trades" ready to contribute immediately in dynamic security operations centers.
 
+<h2>Projects</h2>
+[Home NAS and Plex Server](home-nas-revival)
+<ui>Linux-based NAS and Plex server with RAID, scheduled backups, and secure remote access for centralized home lab storage and media streaming.</ui>
+
 <h4>“The human factor is truly security’s weakest link.” – Kevin Mitnick</h4>
 
 Kevin Mitnick’s focus on the human side of cybersecurity strongly shaped how I think about defense. His point that “the human factor is truly security’s weakest link” reminds me that even the best tools, firewalls, and cloud configurations cannot protect an organization if people are not trained and supported to make good decisions, whether that is resisting phishing or not plugging in a random USB from a parking lot. His perspective pushes me to care about both technical controls and user awareness so I can help build environments that stay secure in the real world, not just on paper
