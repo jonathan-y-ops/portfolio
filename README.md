@@ -7,13 +7,13 @@ Deepening my expertise, I excelled in core security courses like ITSY 1342: Info
 <h2>Projects</h2>
 [Home NAS and Plex Server](https://github.com/jonathan-y-ops/projects/blob/main/home-nas-revival/README.md)
 <ui>
-<li>Linux-based NAS and Plex server with RAID, scheduled backups, and secure remote access for centralized home lab storage and media streaming.</li>
+  <li>Linux-based NAS and Plex server with RAID, scheduled backups, and secure remote access for centralized home lab storage and media streaming.</li>
 </ui>
 
 [Splunk home lab](https://github.com/jonathan-y-ops/projects/blob/main/splunk-home-lab/README.md)
-<ul>
+<ui>
   <li>Installed Splunk in a home lab and ingested sample logs to practice basic SIEM workflows, including creating searches, filters, and visualizations to explore system and security events.</li>
-</ul>
+</ui>
 
 <h4>“The human factor is truly security’s weakest link.” – Kevin Mitnick</h4>
 
