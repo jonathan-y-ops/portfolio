@@ -5,7 +5,7 @@ Transitioning from early challenges in unrelated fields to cybersecurity, I disc
 Deepening my expertise, I excelled in core security courses like ITSY 1342: Information Technology Security, ITSY 2330: Intrusion Detection, ITSY 2401: Firewalls & Network Security, and ITSY 2443: Ethical Hacking Computer System Forensics, earning Dean's List recognition and consistent A's/B's. Hands-on labs in firewall deployment, intrusion monitoring, vulnerability scanning, and digital forensics honed my ability to detect threats, mitigate risks, and conduct incident response, preparing me for SOC analyst or junior security analyst roles. Complementing academics, I've built and troubleshot custom PCs/servers, installed/configured OS environments, and practiced Azure cloud labs, positioning me as a versatile "jack-of-all-trades" ready to contribute immediately in dynamic security operations centers.
 
 <h2>Projects</h2>
-[Home NAS and Plex Server](projects/home-nas-revival/)
+[Home NAS and Plex Server](https://github.com/jonathan-y-ops/projects/blob/main/home-nas-revival/README.md)
 <ui>Linux-based NAS and Plex server with RAID, scheduled backups, and secure remote access for centralized home lab storage and media streaming.</ui>
 
 <h4>“The human factor is truly security’s weakest link.” – Kevin Mitnick</h4>
